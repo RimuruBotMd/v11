@@ -1,5 +1,5 @@
 {
-    "name": "Aine-Bot",
+    "name": "Siesta-Md",
     "version": "07.06.98",
     "description": "Customizable WhatsApp Bot",
     "depecrated": false,
@@ -29,14 +29,14 @@
     ],
     "homepage": "https://github.com/Aiinne",
     "author": {
-        "name": "Muhammad Ridwan Reynaldy"
+        "name": "Muhammad Sabil"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Aiinne"
+        "url": "git+https://github.com/RimuruBotMd"
     },
     "bugs": {
-        "url": "https://github.com/Aiinne"
+        "url": "https://github.com/RimuruBotMd"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
