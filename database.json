@@ -1,12 +1,12 @@
 {
   "users": {
-    "18153243461@s.whatsapp.net": {
+    "6288980870067@s.whatsapp.net": {
       "exp": 105,
-      "limit": 999,
+      "limit": 9999999999,
       "joinlimit": 1,
       "spammer": 0,
-      "money": 10000,
-      "bank": 10000,
+      "money": 999999999,
+      "bank": 999999999999,
       "health": 100,
       "tiketcoin": 0,
       "healtmonster": 100,
